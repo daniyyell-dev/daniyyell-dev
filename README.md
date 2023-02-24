@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniyyell
-- 👀 I’m interested in Cybersecurity, Python and Go 
+- 👀 I’m interested in Cybersecurity, Lead SOC Analyst and DFIR by day
 - 🌱 I’m currently learning Python
 - 🤝 I’m looking to collaborate on Cybersecurity research related 
 - 📫 How to reach me 
