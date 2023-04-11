@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniyyell
 - 👀 Lead SOC Analyst/ DFIR by day
-- 🌱 I’m currently learning Python
-- 🤝 I’m looking to collaborate on Cybersecurity researcher's related 
+- 🌱 I’m with learning Python
+- 🤝 I’m open to collaborating. 
 
 
 - 🌐 https://twitter.com/dani_yyell
