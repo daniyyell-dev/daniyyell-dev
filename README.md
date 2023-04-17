@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniyyell
-- 👀 Lead SOC Analyst/ DFIR by day
-- 🌱 I’m with learning Python
+- 👀 Lead SOC Analyst/ DFIR
+- 🌱 I’m learning Python for automation 
 - 🤝 I’m open to collaborating. 
 
 
