@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniyyell
-- 👀 Srn. SOC Analyst/ DFIR
+- 👀 Sr. SOC Analyst/ DFIR
 - 🌱 I’m learning Python for automation 
 - 🤝 I’m open to collaborating. 
 
