@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Daniel Jeremiah, a Sr. SOC Analyst and DFIR enthusiast. I'm currently learning Python for automation.
+I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
 
 🌐 Connect with me:
 - Twitter: [![Twitter](https://img.shields.io/twitter/follow/dani_yyell?style=social)](https://twitter.com/dani_yyell)
