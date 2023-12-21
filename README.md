@@ -1,8 +1,6 @@
-## whoami 👋
+# Hi there! 👋
 
-- ❓ InfoSec Professional working on the Blue side and Machine Learning.
-- 🔭 Currently working on Security Engineering.
-- 🌱 Learning Machine Learning.
+I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
 
 ## 💪 My Keys Area
 
@@ -33,8 +31,7 @@
 </p>
 
 
-## 📫 How to reach me:
+🌐 Connect with me:
+- Twitter: [![Twitter](https://img.shields.io/twitter/follow/dani_yyell?style=social)](https://twitter.com/dani_yyell)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/daniel-jeremiah)
 
-- 📞 [@dani_yyell on Twitter](https://twitter.com/dani_yyell)
-- 📞 [dani_yyell on Instagram](https://www.instagram.com/dani_yyell/)
-- 📨 [Email Me](daniyyell50@gmail.com)
