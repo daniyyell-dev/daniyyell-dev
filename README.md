@@ -16,7 +16,7 @@ I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learn
 - Perimeter Devices: Checkpoint UTM, Palo-Alto, Fortinate, McAfee IDPS.
 - Ticketing Tools: ServiceNow.
 - Operating System: Windows, Kali Linux, Linux-RedHat, Linux-Ubuntu.
-- Scripting Language: Python, VB, RegEx.
+- Scripting Language: Python, VB, RegEx and Powershell
 
 ## 🏆 Badges:
 
