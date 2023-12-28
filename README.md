@@ -2,21 +2,36 @@
 
 I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
 
-## 💪 My Keys Area
+## 💪 My Keys Area and Work Experiences
 
-- Defensive security, Incident Response, Threat Hunt, Forensic investigation.
-- Cloud: AWS, Azure.
-- SIEM Tools: IBM Qradar, Sumologic, Splunk, ELK.
-- SOAR: Cortex XSOAR, Tines, Shuffle, Splunk Phantom.
-- Forensic Tools: Volatility, Autopsy, MagnetRAM, FTK, Winpmem, PesStudio, hURL, Exiftool, Hashdeep, WOLF. etc
-- EPP, EDR Tools: McAfee ePO, TrendMicro, Cylance, Symantec, Cortex XDR, Crowdstrike Falcon.
-- Security Assessment Tools: Azure ATP & IDP, DarkTrace, TrapX, Qualys, Wireshark, Zenmap.
-- DLP: SkyHigh.
-- Proxy: Websense.
-- Perimeter Devices: Checkpoint UTM, Palo-Alto, Fortinate, McAfee IDPS.
-- Ticketing Tools: ServiceNow.
-- Operating System: Windows, Kali Linux, Linux-RedHat, Linux-Ubuntu.
-- Scripting Language: Python, VB, RegEx and Powershell
+| Category                                      | Experience                         | Technologies                                      | Tools and Technologies                                                                                               |
+|-----------------------------------------------|-----------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| Defensive Security, Incident Response        | 3 years, 6 months                 | - SIEM Tools                                      | Cortex XDR, Cortex XSIAM, IBM Qradar, Sumologic, Splunk, ELK.                                                          |
+|                                               |                                   | - SOAR                                            | Cortex XSOAR, Tines, Shuffle, Splunk SOAR.                                                                           |
+|                                               |                                   | - Forensic Tools                                   | Volatility, Autopsy, MagnetRAM, FTK, Winpmem, PesStudio, hURL, Exiftool, Hashdeep, Plaso, etc.                      |
+|                                               |                                   | - EPP, EDR Tools                                   | McAfee ePO, TrendMicro, Cylance, Symantec, Cortex XDR, Crowdstrike Falcon.                                             |
+|                                               |                                   | - Security Assessment Tools                       | Azure ATP & IDP, DarkTrace, TrapX, Qualys, Wireshark, Zenmap.                                                          |
+|                                               |                                   | - Malware Analysis & Reverse Engineering           | Cuckoo Sandbox, Capesandbox, Binary ninja, Cutter, PEStudio, Ghidra, etc.                                             |
+|                                               |                                   | - DLP                                             | SkyHigh.                                                                                                             |
+|                                               |                                   | - Proxy                                           | Websense.                                                                                                            |
+|                                               |                                   | - Perimeter Devices                               | Checkpoint UTM, Palo-Alto, Fortinet, McAfee IDPS, Firewall.                                                           |
+|                                               |                                   | - IDS/IPS                                         | McAfee IDPS, Snort.                                                                                                  |
+|                                               |                                   | - Ticketing Tools                                  | ServiceNow.                                                                                                          |
+|                                               |                                   | - Cloud                                           | AWS, Azure.                                                                                                          |
+|                                               |                                   | - Operating System                                | Windows, Kali Linux, Remnux-Malware Analysis, Linux-Ubuntu.                                                           |
+|                                               |                                   | - Scripting Language                              | Python, VB, RegEx, and Powershell.                                                                                   |
+|                                               |                                   |                                                   |                                                                                                                        |
+| Machine Learning Research                    | Research Focus Area               | - GAN Net                                          | Research and Development in Generative Adversarial Networks.                                                         |
+|                                               |                                   |                                                   |                                                                                                                        |
+| Offensive Security, Ethical Hacking, Red Team  | 3 years (part-time)               | - Bug Bounty Platforms                           | Bugcrowd, HackerOne.                                                                                                 |
+|                                               | 3 years                           | - Information Gathering                           | Amass, shuffleDNS, altdns, subfinder, assetfinder.                                                                   |
+|                                               |                                   | - Scanning                                         | RustScan, nmap, EyeWitness, httpx, gobuster, waybackurls.                                                            |
+|                                               |                                   | - Fuzzing                                          | Arjun, ffuf, GraphQLmap.                                                                                            |
+|                                               |                                   | - Exploitation                                     | ysoserial, Autorize, smuggler, h2csmuggler, sqlmap, dalfox.                                                         |
+|                                               |                                   | - Web Application Testing                         | xxhunter, gitleaks, s3tk, CMSmap, wpscan, subjack, nuclei.                                                          |
+|                                               |                                   | - Post-Exploitation                                | Metasploit Framework, CyberChef.                                                                                    |
+|                                               |                                   |                                                   | Burp Suite.                                                                                                          |
+|                                               |                                   | - Bug Bounty Achievements                         | Submitted over 65 vulnerabilities to Bugcrowd and six security issues to Google Inc.                                |
 
 
 ## 🏆 Badges:
