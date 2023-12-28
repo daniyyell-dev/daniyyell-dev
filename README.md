@@ -1,7 +1,6 @@
 # Welcome to My Profile! 🌟 🚀✨
 
-Daniel or simply "daniyyell" is a highly skilled cybersecurity professional with over six years of diverse security experience. He excels in Vulnerability Assessment, Penetration Testing, Senior SOC Analyst and Incident Response. His certifications include CASP+, CySA+, CEH, CND, and more. Daniel is well-versed in Splunk Engineering, SOAR, Threat hunting, and the MITRE ATT&CK framework. He's also adept at GRC frameworks like GDPR, ISO/IEC 27001, and NIST. Currently a CSOC engineer at Ptas Solutions, he's dedicated to elevating cybersecurity standards through innovation and excellence. I'm currently learning Python for automation and Machine Learning.
-
+Daniel or simply "daniyyell" is a highly skilled cybersecurity professional with over six years of diverse security experience. He excels in Vulnerability Assessment, Penetration Testing, Senior SOC Analyst and Incident Response. His certifications include CASP+, CySA+, CEH, CND, and more.
 
 # Education
 
