@@ -1,7 +1,4 @@
-# Welcome to My Profile! 🌟
-
-Hey there, You Made it here!! 🌟 Whether you stumbled upon my profile by chance or arrived with a purpose, I'm thrilled to welcome you. This space is a canvas of ideas, projects, and the things that make me tick. Take a leisurely stroll, and don't hesitate to drop a message if you fancy a chat or have questions. Let's make this digital rendezvous memorable! 🚀✨
-
+# Welcome to My Profile! 🌟 🚀✨
 
 Daniel is a highly skilled cybersecurity professional with six years of experience. He excels in Vulnerability Assessment, Penetration Testing, Senior SOC Analyst and Incident Response. His certifications include CASP+, CySA+, CEH, CND, and more. Daniel is well-versed in Splunk Engineering, SOAR, Threat hunting, and the MITRE ATT&CK framework. He's also adept at GRC frameworks like GDPR, ISO/IEC 27001, and NIST. Currently a CSOC engineer at Ptas Solutions, he's dedicated to elevating cybersecurity standards through innovation and excellence. I'm currently learning Python for automation and Machine Learning.
 
