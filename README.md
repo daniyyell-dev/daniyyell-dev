@@ -2,6 +2,27 @@
 
 I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
 
+
+##Education
+
+| Education                                      | Degree                            | Skills                                                                                                    |
+|-----------------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------|
+| Edge Hill University (2023)                    | Master of Science (MSc), Cybersecurity | Machine Learning, Penetration Testing, Infrastructure Security, Malware Analysis, Python, Systems and Platform Security |
+|                                               |                                   |                                                                                                          |
+| Middlesex University (2020)                   | Bachelor of Science (BSc), Information Technology | Web Development, Python, Research Methods, UI/UX, Risk Analysis, Laws and Ethics                           |
+|                                               |                                   |                                                                                                          |
+| Aptech Learning (2018)                         | Aptech Certified Network Specialist, Networking | Network Administration, Network Security                                                                  |
+|                                               |                                   |                                                                                                          |
+| Aptech Learning (2017)                         | Aptech Certified Ethical Hacker, Offensive Security | Ethical Hacking, Offensive Security                                                                      |
+|                                               |                                   |                                                                                                          |
+| Universal School of Aviation (2016)           | Air Ticketing Officer, Airline Ticketing | Airline Operations, Ticketing Systems                                                                   |
+|                                               |                                   |                                                                                                          |
+| Universal Computer College (2016)             | Advance Diploma in Computer Engineering, Electrical and Electronics Engineering | Computer Engineering, Electrical Systems, Electronics                                                 |
+|                                               |                                   |                                                                                                          |
+
+
+
+
 ## 💪 My Keys Area and Work Experiences
 
 | Category                                      | Experience                         | Technologies                                      | Tools and Technologies                                                                                               |
