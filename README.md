@@ -24,7 +24,7 @@ Daniel or simply "daniyyell" is a highly skilled cybersecurity professional with
 
 # Work Experiences
 
-| Category                                      | Experience                         | Technologies                                      | Tools and Technologies                                                                                               |
+| Category                                      | Experience                         | Technologies                                      | Tools                                                                                               |
 |-----------------------------------------------|-----------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Defensive Security, Incident Response        | 3 years, 6 months                 | SIEM Tools                                        | Cortex XDR, Cortex XSIAM, IBM Qradar, Sumologic, Splunk, ELK.                                                          |
 |                                               |                                   | SOAR                                              | Cortex XSOAR, Tines, Shuffle, Splunk SOAR.                                                                           |
