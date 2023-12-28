@@ -18,10 +18,7 @@ I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learn
 - Operating System: Windows, Kali Linux, Linux-RedHat, Linux-Ubuntu.
 - Scripting Language: Python, VB, RegEx and Powershell
 
-| Header 1 | Header 2 | Header 3 |
-| ---------|----------|----------|
-| Content 1| Content 2| Content 3|
-| Content 4| Content 5| Content 6|
+
 
 
 ## 🏆 Badges:
