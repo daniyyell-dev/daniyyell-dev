@@ -15,6 +15,13 @@ I'm Daniyyell, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Py
 - Operating System: Windows, Kali Linux, Linux-RedHat, Linux-Ubuntu.
 - Scripting Language: Python, VB, RegEx and Powershell
 
+  <h2 align="center">📊 Stats</h2>
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=daniyyell-dev&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=daniyyell-dev&theme=tokyonight" />  
+</p>
+
+
 ## 🏆 Badges:
 
 <p float="left">
