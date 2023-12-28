@@ -1,5 +1,6 @@
 # Hi there! 👋
-I'm Daniyyell, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
+
+I'm Daniyyell, a Senior SOC Engineer with a passion for Digital Forensics and Incident Response (DFIR). Currently, I'm delving into Python to enhance my skills in automation and machine learning.
 
 ## Research and Security Expertise
 
@@ -7,7 +8,7 @@ I'm Daniyyell, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Py
 - **Research Focus Area:** Generative adversarial networks For Malware Analysis.
 
 ### Defensive Security, Incident Response
-- **Expertise:** SIEM Tools, SOAR, Forensic Tools, EPP, EDR Tools, Security Assessment Tools, Malware Analysis & Reverse Engineering, DLP, Proxy, Perimeter Devices, IDS/IPS, Ticketing Tools, Cloud, Operating System, Scripting Language
+- **Expertise:** Malware Analysis & Reverse Engineering, DLP, Proxy, Perimeter Devices, IDS/IPS Cloud, Scripting
 - **Tools:** Cortex XDR, Cortex XSIAM, IBM Qradar, Sumologic, Splunk, Elastic Stack, Cortex XSOAR, Tines, Shuffle, Splunk SOAR, Volatility, Autopsy, McAfee ePO, Azure ATP & IDP, Cuckoo Sandbox, SkyHigh, Checkpoint UTM, Snort, ServiceNow, AWS, Kali Linux, Python, and more.
 
 ### Offensive Security, Ethical Hacking, Red Team
