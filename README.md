@@ -1,6 +1,6 @@
 # Welcome to My Profile! 🌟 🚀✨
 
-Daniel or simply "daniyyell" is a highly skilled cybersecurity professional with over six years of diverse security experience. He excels in Vulnerability Assessment, Penetration Testing, Senior SOC Analyst and Incident Response. His certifications include CASP+, CySA+, CEH, CND, and more.
+Daniel or simply "daniyyell" is a highly skilled cybersecurity professional with over six years of diverse security experience. He excels in Vulnerability Assessment, Penetration Testing, Senior SOC Analyst and Incident Response. His certifications include CASP+, CySA+, CEH, CND, and more. I'm currently learning Python for automation and Machine Learning.
 
 # Education
 
