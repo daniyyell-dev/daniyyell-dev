@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
+I'm Daniyyell, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
 ## 💪 My Keys Area
 - Defensive security, Incident Response, Threat Hunt, Forensic investigation.
 - Cloud: AWS, Azure.
