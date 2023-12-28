@@ -18,26 +18,6 @@ I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learn
 - Operating System: Windows, Kali Linux, Linux-RedHat, Linux-Ubuntu.
 - Scripting Language: Python, VB, RegEx and Powershell
 
-| Category                                      | Experience                         | Tools and Technologies                                                                                               |
-|-----------------------------------------------|-----------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Defensive Security, Incident Response        | 3 years, 6 months                 | - SIEM Tools: Cortex XDR, Cortex XSIAM, IBM Qradar, Sumologic, Splunk, ELK.                                           |
-|                                               |                                   | - SOAR: Cortex XSOAR, Tines, Shuffle, Splunk SOAR.                                                                    |
-|                                               |                                   | - Forensic Tools: Volatility, Autopsy, MagnetRAM, FTK, Winpmem, PesStudio, hURL, Exiftool, Hashdeep, Plaso, etc.       |
-|                                               |                                   | - EPP, EDR Tools: McAfee ePO, TrendMicro, Cylance, Symantec, Cortex XDR, Crowdstrike Falcon.                            |
-|                                               |                                   | - Security Assessment Tools: Azure ATP & IDP, DarkTrace, TrapX, Qualys, Wireshark, Zenmap.                             |
-|                                               |                                   | - Malware Analysis & Reverse Engineering: Cuckoo Sandbox, Capesandbox, Binary ninja, Cutter, PEStudio, Ghidra, etc.   |
-|                                               |                                   | - DLP: SkyHigh.                                                                                                      |
-|                                               |                                   | - Proxy: Websense.                                                                                                    |
-|                                               |                                   | - Perimeter Devices: Checkpoint UTM, Palo-Alto, Fortinet, McAfee IDPS.                                                 |
-|                                               |                                   | - Ticketing Tools: ServiceNow.                                                                                        |
-|                                               |                                   | - Cloud: AWS, Azure.                                                                                                 |
-|                                               |                                   | - Operating System: Windows, Kali Linux, Remnux-Malware Analysis, Linux-Ubuntu.                                       |
-|                                               |                                   | - Scripting Language: Python, VB, RegEx, and Powershell.                                                              |
-|                                               |                                   |                                                                                                                        |
-| Offensive Security, Ethical Hacking, Red Team  | 3 years (part-time)               | - Bug Bounty Platforms: Bugcrowd, HackerOne.                                                                         |
-|                                               | 3 years                           | - Tools: Amass, shuffleDNS, altdns, subfinder, assetfinder, RustScan, nmap, EyeWitness, httpx, gobuster, waybackurls, Arjun, ffuf, GraphQLmap, ysoserial, Autorize, smuggler, h2csmuggler, sqlmap, dalfox, xxhunter, gitleaks, s3tk, CMSmap, wpscan, subjack, nuclei, Metasploit Framework, CyberChef, Burp Suite. |
-|                                               |                                   | - Bug Bounty Achievements: Submitted over 65 vulnerabilities to Bugcrowd and six security issues to Google Inc.       |
-
 
 ## 🏆 Badges:
 
