@@ -5,7 +5,7 @@ I'm Daniyyell, a Senior SOC Engineer with a passion for Digital Forensics and In
 ## Research and Security Expertise
 
 ### Machine Learning Research
-- **Research Focus Area:** Generative adversarial networks For Malware Analysis.
+- **Research Focus Area:** Generative adversarial networks for Malware Analysis.
 
 ### Defensive Security, Incident Response
 - **Expertise:** Malware Analysis & Reverse Engineering, DLP, Proxy, Perimeter Devices, IDS/IPS Cloud, Scripting
