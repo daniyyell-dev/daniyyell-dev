@@ -3,7 +3,7 @@
 I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
 
 
-##Education
+# Education
 
 | Education                                      | Degree                            | Skills                                                                                                    |
 |-----------------------------------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -23,7 +23,7 @@ I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learn
 
 
 
-## 💪 My Keys Area and Work Experiences
+# Work Experiences
 
 | Category                                      | Experience                         | Technologies                                      | Tools and Technologies                                                                                               |
 |-----------------------------------------------|-----------------------------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
