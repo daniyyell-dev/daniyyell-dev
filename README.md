@@ -48,9 +48,9 @@ Daniel or simply "daniyyell" is a highly skilled cybersecurity professional with
 |                                               |                                   | Scanning                                           | RustScan, nmap, EyeWitness, httpx, gobuster, waybackurls.                                                            |
 |                                               |                                   | Fuzzing                                            | Arjun, ffuf, GraphQLmap.                                                                                            |
 |                                               |                                   | Exploitation                                       | ysoserial, Autorize, smuggler, h2csmuggler, sqlmap, dalfox.                                                         |
-|                                               |                                   | Web Application Testing                           | xxhunter, gitleaks, s3tk, CMSmap, wpscan, subjack, nuclei.                                                          |
+|                                               |                                   | Web Application Testing                           | Burp Suite. xxhunter, gitleaks, s3tk, CMSmap, wpscan, subjack, nuclei.                                                          |
 |                                               |                                   | Post-Exploitation                                  | Metasploit Framework, CyberChef.                                                                                    |
-|                                               |                                   |                                                   | Burp Suite.                                                                                                          |
+                                                                                                      |
 |                                               |                                   | Bug Bounty Achievements                           | Submitted over 65 vulnerabilities to Bugcrowd and six security issues to Google Inc.                                |
 
 ## 🏆 Badges:
