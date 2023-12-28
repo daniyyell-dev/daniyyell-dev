@@ -1,19 +1,17 @@
 # Hi there! 👋
 I'm Daniyyell, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Python for automation and Machine Learning.
-## 💪 My Keys Area
-- Defensive security, Incident Response, Threat Hunt, Forensic investigation.
-- Cloud: AWS, Azure.
-- SIEM Tools: IBM Qradar, Sumologic, Splunk, ELK.
-- SOAR: Cortex XSOAR, Tines, Shuffle, Splunk Phantom.
-- Forensic Tools: Volatility, Autopsy, MagnetRAM, FTK, Winpmem, PesStudio, hURL, Exiftool, Hashdeep, WOLF. etc
-- EPP, EDR Tools: McAfee ePO, TrendMicro, Cylance, Symantec, Cortex XDR, Crowdstrike Falcon.
-- Security Assessment Tools: Azure ATP & IDP, DarkTrace, TrapX, Qualys, Wireshark, Zenmap.
-- DLP: SkyHigh.
-- Proxy: Websense.
-- Perimeter Devices: Checkpoint UTM, Palo-Alto, Fortinate, McAfee IDPS.
-- Ticketing Tools: ServiceNow.
-- Operating System: Windows, Kali Linux, Linux-RedHat, Linux-Ubuntu.
-- Scripting Language: Python, VB, RegEx and Powershell
+
+## Research and Security Expertise
+
+### Machine Learning Research
+- **Research Focus Area:** Generative adversarial networks For Malware Analysis.
+
+### Defensive Security, Incident Response
+- **Expertise:** SIEM Tools, SOAR, Forensic Tools, EPP, EDR Tools, Security Assessment Tools, Malware Analysis & Reverse Engineering, DLP, Proxy, Perimeter Devices, IDS/IPS, Ticketing Tools, Cloud, Operating System, Scripting Language
+- **Tools:** Cortex XDR, Cortex XSIAM, IBM Qradar, Sumologic, Splunk, Elastic Stack, Cortex XSOAR, Tines, Shuffle, Splunk SOAR, Volatility, Autopsy, McAfee ePO, Azure ATP & IDP, Cuckoo Sandbox, SkyHigh, Checkpoint UTM, Snort, ServiceNow, AWS, Kali Linux, Python, and more.
+
+### Offensive Security, Ethical Hacking, Red Team
+- **Tools:** Amass, shuffleDNS, RustScan, nmap, Arjun, ffuf, Metasploit Framework, Burp Suite, Metasploit Framework, etc.
 
   <h2 align="center">📊 Stats</h2>
 <p align="center">
