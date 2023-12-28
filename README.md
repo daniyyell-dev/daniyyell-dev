@@ -18,6 +18,10 @@ I'm Daniel Jeremiah, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learn
 - Operating System: Windows, Kali Linux, Linux-RedHat, Linux-Ubuntu.
 - Scripting Language: Python, VB, RegEx and Powershell
 
+| **Experiences**                                           | **Tools and Technologies**                                      | **Years of Experience**   |
+|----------------------------------------------------------|----------------------------------------------------------------|---------------------------|
+| Defensive security, Incident Response, Threat Hunting/Malware Analysis, Forensic investigation | Cloud: AWS, Azure<br>SIEM Tools: Cortex XDR, Cortex XSIAM, IBM Qradar, Sumologic, Splunk, ELK<br>SOAR: Cortex XSOAR, Tines, Shuffle, Splunk SOAR<br>Forensic Tools: Volatility, Autopsy, MagnetRAM, FTK, Winpmem, PesStudio, hURL, Exiftool, Hashdeep, Plaso, LastActivityView, etc<br>EPP, EDR Tools: McAfee ePO, TrendMicro, Cylance, Symantec, Cortex XDR, Crowdstrike Falcon<br>Security Assessment Tools: Azure ATP & IDP, DarkTrace, TrapX, Qualys, Wireshark, Zenmap<br>Malware Analysis & Reverse Engineering: Cuckoo Sandbox, Capesandbox, Binary ninja, Cutter, PEStudio, Ghidra, OllyDbg, etc<br>DLP: SkyHigh<br>Proxy: Websense<br>Perimeter Devices: Checkpoint UTM, Palo-Alto, Fortinet, McAfee IDPS<br>Ticketing Tools: ServiceNow<br>Operating System: Windows, Kali Linux, Remnux- Malware Analysis, Linux-Ubuntu<br>Scripting Language: Python, VB, RegEx, and Powershell | 3 years, 6 months        |
+| Offensive security, Ethical Hacking, Red Teaming, Forensic investigation. <br>3 years (part-time) - Bug bounty with Bugcrowd and Hackerone<br>3 years - Corporate environments<br>Have submitted over 65 vulnerabilities to Bugcrowd and six security issues to Google Inc. | Tools: Amass, shuffleDNS, altdns, subfinder, assetfinder, RustScan, nmap, EyeWitness, httpx, gobuster, waybackurls, Arjun, ffuf, GraphQLmap, ysoserial, Autorize, smuggler, h2csmuggler, sqlmap, dalfox, xxhunter, gitleaks, s3tk, CMSmap, wpscan, subjack, nuclei, Metasploit Framework, CyberChef, Burpsuite |                         |
 
 
 
