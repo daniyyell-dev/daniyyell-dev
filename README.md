@@ -27,5 +27,6 @@ I'm Daniyyell, a Sr. SOC Engineer and DFIR enthusiast. I'm currently learning Py
   <!-- Add more badges here -->
 </p>
 🌐 Connect with me:
-- Twitter: [![Twitter](https://img.shields.io/twitter/follow/dani_yyell?style=social)](https://twitter.com/dani_yyell)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/daniel-jeremiah)
+
+- [![Twitter](https://img.shields.io/twitter/follow/dani_yyell?style=social)](https://twitter.com/dani_yyell)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/daniel-jeremiah)
