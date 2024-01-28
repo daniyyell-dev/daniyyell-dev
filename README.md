@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Daniyyell, a Senior SOC Engineer and DFIR enthusiast. Currently, I'm diving into Python for automation and machine learning.
+I'm daniyyell, a Senior SOC Engineer and DFIR enthusiast. Currently, I'm diving into Python for automation and machine learning.
 
 ## Research and Security Expertise
 
@@ -8,7 +8,7 @@ I'm Daniyyell, a Senior SOC Engineer and DFIR enthusiast. Currently, I'm diving 
 - **Research Focus Area:** Generative Adversarial Networks for Malware Analysis.
 
 ### Defensive Security, Incident Response
-- **Expertise:** Malware Analysis & Reverse Engineering, DLP, Proxy, Perimeter Devices, IDS/IPS Cloud, Scripting
+- **Expertise:** Security Operations, Malware Analysis & Reverse Engineering, DLP, Proxy, Perimeter Devices, IDS/IPS,  Cloud, Python Scripting
 
 ### Offensive Security, Ethical Hacking, Red Team
 - **Expertise:** Penetration testing, exploit development, social engineering, web application security, and cloud security.
