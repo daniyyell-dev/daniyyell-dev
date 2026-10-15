@@ -8,8 +8,7 @@
 <a href="https://daniyyell.com/"><img height="22" src="https://img.shields.io/badge/Blog-daniyyell.com-B30000?style=flat-square" alt="Blog" /></a> <a href="https://www.linkedin.com/in/daniel-jeremiah/"><img height="22" src="https://img.shields.io/badge/LinkedIn-Connect-B30000?style=flat-square" alt="LinkedIn" /></a> <a href="https://orcid.org/0009-0000-0649-6324"><img height="22" src="https://img.shields.io/badge/ORCID-Publications-B30000?style=flat-square" alt="ORCID" /></a> <a href="https://detections.ai/profile/daniyyell"><img height="22" src="https://img.shields.io/badge/detections.ai-Trusted_Contributor-B30000?style=flat-square" alt="detections.ai" /></a> 
 </p>
 
-Cybersecurity operations meets **GANs, adversarial machine learning & deep learning**.  
-PhD in Computing & Technology at **Asia Pacific University of Technology & Innovation**.
+Senior cybersecurity specialist and PhD researcher working at the intersection of **threat detection, adversarial machine learning, and generative AI**. Pursuing a PhD in Computing & Technology at **Asia Pacific University of Technology & Innovation (APU)**.
 
 </div>
 
