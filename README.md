@@ -81,9 +81,18 @@ The study reports up to **98.3% accuracy** and **95.7% average external-dataset 
 
 <div align="center">
 
-<p align="center">
-<img height="22" src="https://img.shields.io/badge/CISM-B30000?style=flat-square" alt="CISM" /> <img height="22" src="https://img.shields.io/badge/OSCP-B30000?style=flat-square" alt="OSCP" /> <img height="22" src="https://img.shields.io/badge/OSCP%2B-B30000?style=flat-square" alt="OSCP+" /> <img height="22" src="https://img.shields.io/badge/CRTP-B30000?style=flat-square" alt="CRTP" /> <img height="22" src="https://img.shields.io/badge/CRTO-B30000?style=flat-square" alt="CRTO" /> <img height="22" src="https://img.shields.io/badge/eCTHP-B30000?style=flat-square" alt="eCTHP" /> <img height="22" src="https://img.shields.io/badge/eCIR-B30000?style=flat-square" alt="eCIR" /> <img height="22" src="https://img.shields.io/badge/CASP%2B-B30000?style=flat-square" alt="CASP+" /> 
-</p>
+<table align="center"><tr>
+<td align="center" valign="middle" width="12%"><a href="https://www.credly.com/org/isaca/badge/certified-information-security-manager-cism"><img height="64" src="./assets/certifications/cism.png" alt="CISM certification artwork" /></a><br /><sub>CISM</sub></td>
+<td align="center" valign="middle" width="12%"><a href="https://www.offsec.com/courses/pen-200/"><img height="64" src="./assets/certifications/oscp.png" alt="OSCP certification artwork" /></a><br /><sub>OSCP</sub></td>
+<td align="center" valign="middle" width="12%"><a href="https://www.offsec.com/courses/pen-200/"><img height="64" src="./assets/certifications/oscp-plus.svg" alt="OSCP+ certification artwork" /></a><br /><sub>OSCP+</sub></td>
+<td align="center" valign="middle" width="12%"><a href="https://www.alteredsecurity.com/adlab"><img height="64" src="./assets/certifications/crtp.png" alt="CRTP certification artwork" /></a><br /><sub>CRTP</sub></td>
+<td align="center" valign="middle" width="12%"><a href="https://www.zeropointsecurity.co.uk/course/red-team-ops"><img height="64" src="./assets/certifications/crto.png" alt="CRTO certification artwork" /></a><br /><sub>CRTO</sub></td>
+<td align="center" valign="middle" width="12%"><a href="https://ine.com/security/certifications/ecthp-certification"><img height="64" src="./assets/certifications/ecthp.png" alt="eCTHP certification artwork" /></a><br /><sub>eCTHP</sub></td>
+<td align="center" valign="middle" width="12%"><a href="https://ine.com/security/certifications/ecir-certification"><img height="64" src="./assets/certifications/ecir.png" alt="eCIR certification artwork" /></a><br /><sub>eCIR</sub></td>
+<td align="center" valign="middle" width="12%"><a href="https://www.credly.com/org/comptia/badge/comptia-securityx-ce-certification"><img height="64" src="./assets/certifications/securityx.png" alt="CASP+ certification artwork" /></a><br /><sub>CASP+</sub></td>
+</tr></table>
+
+<sub>CASP+ is now branded SecurityX.</sub>
 
 **MSc Cybersecurity · Edge Hill University**  
 **BSc Information Technology · Middlesex University Dubai**
