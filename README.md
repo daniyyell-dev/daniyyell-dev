@@ -78,14 +78,6 @@ The study reports up to **98.3% accuracy** and **95.7% average external-dataset 
 
 <p align="center"><sub>WinLOLBIN-GT metrics: Zenodo snapshot, 15 October 2026; views and downloads are activity counts.</sub></p>
 
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-<a href="https://github.com/daniyyell-dev"><img width="100%" src="https://ghchart.rshah.org/B30000/daniyyell-dev" alt="Daniel's contribution activity" /></a>
-<br />
-<a href="https://github.com/daniyyell-dev?tab=overview">View contribution history on GitHub</a>
-</p>
-
 <h2 align="center">Credentials & Community</h2>
 
 <div align="center">
