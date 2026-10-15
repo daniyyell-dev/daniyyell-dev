@@ -72,10 +72,10 @@ The study reports up to **98.3% accuracy** and **95.7% average external-dataset 
 | Project | Focus |
 | :--- | :--- |
 | [**VRAVEN**](https://github.com/vraven-ai/vraven) | Explainable AI: causal analysis and visual explanations of PyTorch models · [PyPI](https://pypi.org/project/vraven/) |
-| [**WASP**](https://github.com/daniyyell-dev/WASP) | Windows process-injection telemetry, defensive analysis & autoencoder research · [Dataset](https://doi.org/10.17632/gj8vp49xm5.1) |
+| [**WASP**](https://github.com/daniyyell-dev/WASP) | Windows process-injection telemetry, defensive analysis & autoencoder research · [Dataset](https://doi.org/10.17632/gj8vp49xm5.1) · [17 views · 3 downloads](https://plu.mx/plum/a/?doi=10.17632/gj8vp49xm5&theme=plum-bigben-theme) |
 | [**WinLOLBIN-GT**](https://github.com/daniyyell-dev/WinLOLBIN-GT-dataset) | Behavioural ground truth for ML-based Windows LOLBin abuse detection · [750 views · 197 downloads](https://zenodo.org/records/20533434) |
 
-<p align="center"><sub>WinLOLBIN-GT metrics: Zenodo snapshot, 15 October 2026; views and downloads are activity counts.</sub></p>
+<p align="center"><sub>WinLOLBIN-GT: Zenodo snapshot, 15 October 2026. WASP: PlumX metrics refreshed 12 October 2026. Views and downloads are activity counts.</sub></p>
 
 <h2 align="center">Credentials & Community</h2>
 
