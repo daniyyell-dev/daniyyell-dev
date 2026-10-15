@@ -104,6 +104,12 @@ Free mentoring · University guest lectures · Open-source datasets · Technical
 ---
 
 **Let's connect on AI for cybersecurity, malware research & detection engineering.**  
-[LinkedIn](https://www.linkedin.com/in/daniel-jeremiah/) · [detections.ai](https://detections.ai/profile/daniyyell) · [Blog](https://daniyyell.com/) · [ORCID](https://orcid.org/0009-0000-0649-6324)
+<p align="center">
+<a href="https://www.linkedin.com/in/daniel-jeremiah/" title="LinkedIn"><img width="32" height="32" src="./assets/linkedin.png" alt="LinkedIn" /></a>&nbsp;&nbsp; 
+<a href="https://x.com/dani_yyell" title="X (@dani_yyell)"><img width="32" height="32" src="./assets/x.png" alt="X (@dani_yyell)" /></a>&nbsp;&nbsp; 
+<a href="https://detections.ai/profile/daniyyell" title="detections.ai"><img width="32" height="32" src="./assets/detections.svg" alt="detections.ai" /></a>&nbsp;&nbsp; 
+<a href="https://daniyyell.com/" title="Technical blog"><img width="32" height="32" src="./assets/website.svg" alt="Technical blog" /></a>&nbsp;&nbsp; 
+<a href="https://orcid.org/0009-0000-0649-6324" title="ORCID"><img width="32" height="32" src="./assets/orcid.png" alt="ORCID" /></a>&nbsp;&nbsp; 
+</p>
 
 </div>
