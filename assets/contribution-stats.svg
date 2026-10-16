@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="316" viewBox="0 0 440 316" role="img" aria-labelledby="title desc">
+  <title id="title">Open-source contributions</title>
+  <desc id="desc">Pull requests submitted: 20; Merged pull requests: 7; Open pull requests: 11; Issues opened: 7; External repos with PRs: 9. Public activity, all time. Updated 2026-10-16 07:39 UTC.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }
+    .heading { fill: #FF2020; font-size: 20px; font-weight: 650; }
+    .label { fill: #E5E7EB; font-size: 15px; }
+    .value { fill: #E5E7EB; font-size: 18px; font-weight: 700; }
+    .note { fill: #9CA3AF; font-size: 11px; }
+  </style>
+  <rect x="0.5" y="0.5" width="439" height="315" rx="6" fill="#0D0D0F" stroke="#343438"/>
+  <text x="25" y="35" class="heading">Open-source contributions</text>
+  <text x="25" y="56" class="note">PUBLIC ACTIVITY · ALL TIME</text>
+  <text x="25" y="91" class="label">Pull requests submitted</text><text x="415" y="91" class="value" text-anchor="end">20</text><text x="25" y="125" class="label">Merged pull requests</text><text x="415" y="125" class="value" text-anchor="end">7</text><text x="25" y="159" class="label">Open pull requests</text><text x="415" y="159" class="value" text-anchor="end">11</text><text x="25" y="193" class="label">Issues opened</text><text x="415" y="193" class="value" text-anchor="end">7</text><text x="25" y="227" class="label">External repos with PRs</text><text x="415" y="227" class="value" text-anchor="end">9</text>
+  <path d="M25 253H415" stroke="#343438"/>
+  <text x="25" y="274" class="note">External repos: PRs submitted to repositories you do not own.</text>
+  <text x="25" y="296" class="note">Updated 2026-10-16 07:39 UTC · Source: GitHub API</text>
+</svg>
