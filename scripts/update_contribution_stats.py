@@ -69,38 +69,33 @@ def fetch_stats(username: str) -> dict[str, int]:
 
 def render_card(stats: dict[str, int], updated_at: str) -> str:
     rows = [
-        ("Pull requests submitted", stats["pull_requests"]),
-        ("Merged pull requests", stats["merged_pull_requests"]),
-        ("Open pull requests", stats["open_pull_requests"]),
-        ("Issues opened", stats["issues_opened"]),
-        ("External repos with PRs", stats["external_repositories"]),
+        ("Total PRs", stats["pull_requests"], "M5 3v12m0-9h7a4 4 0 0 1 4 4v5M2 3a3 3 0 1 0 6 0a3 3 0 1 0-6 0M2 18a3 3 0 1 0 6 0a3 3 0 1 0-6 0M13 18a3 3 0 1 0 6 0a3 3 0 1 0-6 0"),
+        ("Merged PRs", stats["merged_pull_requests"], "M5 3v12m0-9c0 5 11 3 11 9M2 3a3 3 0 1 0 6 0a3 3 0 1 0-6 0M2 18a3 3 0 1 0 6 0a3 3 0 1 0-6 0M13 18a3 3 0 1 0 6 0a3 3 0 1 0-6 0"),
+        ("Open PRs", stats["open_pull_requests"], "M5 3v12m11-9v9m-4-11 4-4 4 4M2 3a3 3 0 1 0 6 0a3 3 0 1 0-6 0M2 18a3 3 0 1 0 6 0a3 3 0 1 0-6 0M13 18a3 3 0 1 0 6 0a3 3 0 1 0-6 0"),
+        ("Total Issues", stats["issues_opened"], "M11 1a10 10 0 1 0 0 20a10 10 0 1 0 0-20M11 6v6m0 4v.1"),
+        ("External repos with PRs", stats["external_repositories"], "M4 1h14v19H4a3 3 0 0 1 0-6h14M4 1a3 3 0 0 0-3 3v13m5 0v5l3-2 3 2v-5"),
     ]
-    description = "; ".join(f"{label}: {value}" for label, value in rows)
+    description = "; ".join(f"{label}: {value}" for label, value, _ in rows)
     description += f". Public activity, all time. Updated {updated_at}."
     elements = []
-    for index, (label, value) in enumerate(rows):
-        y = 91 + index * 34
+    for index, (label, value, icon) in enumerate(rows):
+        y = 89 + index * 39
         elements.append(
-            f'<text x="25" y="{y}" class="label">{escape(label)}</text>'
-            f'<text x="415" y="{y}" class="value" text-anchor="end">{value:,}</text>'
+            f'<path d="{icon}" transform="translate(27 {y-17}) scale(.85)" fill="none" stroke="#FF2020" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>'
+            f'<text x="62" y="{y}" class="stat">{escape(label)}:</text>'
+            f'<text x="409" y="{y}" class="stat" text-anchor="end">{value:,}</text>'
         )
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="440" height="316" viewBox="0 0 440 316" role="img" aria-labelledby="title desc">
-  <title id="title">Open-source contributions</title>
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" width="440" height="277" viewBox="0 0 440 277" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel's GitHub Stats</title>
   <desc id="desc">{escape(description)}</desc>
   <style>
-    text {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; }}
-    .heading {{ fill: #FF2020; font-size: 20px; font-weight: 650; }}
-    .label {{ fill: #E5E7EB; font-size: 15px; }}
-    .value {{ fill: #E5E7EB; font-size: 18px; font-weight: 700; }}
-    .note {{ fill: #9CA3AF; font-size: 11px; }}
+    text {{ font-family: 'Segoe UI', Ubuntu, sans-serif; }}
+    .heading {{ fill: #FF2020; font-size: 21px; font-weight: 700; }}
+    .stat {{ fill: #E5E7EB; font-size: 16px; font-weight: 650; }}
   </style>
-  <rect x="0.5" y="0.5" width="439" height="315" rx="6" fill="#0D0D0F" stroke="#343438"/>
-  <text x="25" y="35" class="heading">Open-source contributions</text>
-  <text x="25" y="56" class="note">PUBLIC ACTIVITY · ALL TIME</text>
+  <rect x=".75" y=".75" width="438.5" height="275.5" rx="6" fill="#0D0D0F" stroke="#343438" stroke-width="1.5"/>
+  <text x="27" y="40" class="heading">Daniel's GitHub Stats</text>
   {''.join(elements)}
-  <path d="M25 253H415" stroke="#343438"/>
-  <text x="25" y="274" class="note">External repos: PRs submitted to repositories you do not own.</text>
-  <text x="25" y="296" class="note">Updated {escape(updated_at)} · Source: GitHub API</text>
 </svg>
 '''
 
