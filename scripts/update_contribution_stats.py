@@ -111,7 +111,7 @@ def main() -> None:
     snapshot = {"username": args.username, "updated_at": timestamp, "scope": "public, all time", **stats}
     # Fetch and validate everything before replacing either artifact.
     card = render_card(stats, timestamp)
-    (ROOT / "assets/contribution-stats.svg").write_text(card, encoding="utf-8")
+    (ROOT / "assets/github-contributions.svg").write_text(card, encoding="utf-8")
     (ROOT / "assets/contribution-stats.json").write_text(
         json.dumps(snapshot, indent=2) + "\n", encoding="utf-8"
     )
