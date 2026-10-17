@@ -17,7 +17,7 @@ Senior cybersecurity specialist and PhD researcher working at the intersection o
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/pulls?q=is%3Apr+author%3Adaniyyell-dev"><img width="100%" src="./assets/github-contributions.svg" alt="Public all-time contributions: pull requests submitted, merged and open; issues opened; external repositories with PRs. Updated automatically from GitHub." /></a><br />
+<a href="https://github.com/pulls?q=is%3Apr+author%3Adaniyyell-dev"><img width="100%" src="./assets/github-stats.svg" alt="GitHub stats: stars earned, commits and contributed repositories in the last year, all-time pull requests, merged and open PRs, issues, and external repositories with PRs. Updated automatically from GitHub." /></a><br />
 <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=daniyyell-dev&amp;layout=compact&amp;langs_count=6&amp;bg_color=0D0D0F&amp;title_color=FF2020&amp;text_color=E5E7EB&amp;border_color=343438" alt="Most-used languages across public repositories" />
 </td>
 <td width="50%" valign="top">

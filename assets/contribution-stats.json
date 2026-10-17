@@ -1,11 +1,16 @@
 {
   "username": "daniyyell-dev",
-  "updated_at": "2026-10-17 10:53 UTC",
-  "scope": "public, all time",
-  "pull_requests": 21,
+  "updated_at": "2026-10-17 12:15 UTC",
+  "scope": "public; PRs/issues all time, commits/contributed repositories last year",
+  "stars_earned": 15,
+  "commits_last_year": 124,
+  "contributed_repositories_last_year": 19,
+  "contribution_period_start": "2025-10-11T23:00:00Z",
+  "contribution_period_end": "2026-10-17T22:59:59Z",
+  "pull_requests": 23,
   "merged_pull_requests": 8,
-  "open_pull_requests": 11,
+  "open_pull_requests": 13,
   "closed_unmerged_pull_requests": 2,
   "issues_opened": 7,
-  "external_repositories": 9
+  "external_repositories": 10
 }
