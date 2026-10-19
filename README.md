@@ -14,24 +14,15 @@ Senior cybersecurity specialist and PhD researcher working at the intersection o
 
 <h2 align="center">Open-source Activity & Impact</h2>
 
-<p align="center">
-<a href="https://github.com/stats-organization/github-stats-extended"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=daniyyell-dev&amp;show_icons=true&amp;hide_rank=true&amp;show=prs_merged%2Creviews&amp;number_format=long&amp;bg_color=0D0D0F&amp;title_color=FF2020&amp;text_color=E5E7EB&amp;icon_color=FF2020&amp;border_color=343438&amp;card_width=520&amp;line_height=28&amp;custom_title=Daniel+Jeremiah%27s+GitHub+Stats&amp;disable_animations=true" alt="Live public GitHub statistics for daniyyell-dev, generated automatically by GitHub Stats Extended" /></a>
-</p>
-
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/stats-organization/github-stats-extended"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=daniyyell-dev&amp;show_icons=true&amp;hide_rank=true&amp;show=prs_merged%2Creviews&amp;number_format=long&amp;bg_color=0D0D0F&amp;title_color=FF2020&amp;text_color=E5E7EB&amp;icon_color=FF2020&amp;border_color=343438&amp;card_width=520&amp;line_height=28&amp;custom_title=Daniel+Jeremiah%27s+GitHub+Stats&amp;disable_animations=true" alt="Live public GitHub statistics for daniyyell-dev, generated automatically by GitHub Stats Extended" /></a><br />
 <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=daniyyell-dev&amp;layout=compact&amp;langs_count=6&amp;bg_color=0D0D0F&amp;title_color=FF2020&amp;text_color=E5E7EB&amp;border_color=343438" alt="Most-used languages across public repositories" />
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://streak-stats.demolab.com/?user=daniyyell-dev&amp;background=0D0D0F&amp;border=343438&amp;ring=FF2020&amp;fire=B30000&amp;currStreakNum=FF2020&amp;sideNums=E5E7EB&amp;currStreakLabel=FF2020&amp;sideLabels=FF2020&amp;dates=9CA3AF" alt="Total contributions, current streak and longest streak" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://detections.ai/profile/daniyyell"><img width="100%" src="./assets/detection-impact.svg" alt="Detection impact: 971 detections, 4,579 downloads, 1,948 copies and 127,035 views" /></a>
-</td>
-<td width="50%" valign="top">
+<img width="100%" src="https://streak-stats.demolab.com/?user=daniyyell-dev&amp;background=0D0D0F&amp;border=343438&amp;ring=FF2020&amp;fire=B30000&amp;currStreakNum=FF2020&amp;sideNums=E5E7EB&amp;currStreakLabel=FF2020&amp;sideLabels=FF2020&amp;dates=9CA3AF" alt="Total contributions, current streak and longest streak" /><br />
+<a href="https://detections.ai/profile/daniyyell"><img width="100%" src="./assets/detection-impact.svg" alt="Detection impact: 971 detections, 4,579 downloads, 1,948 copies and 127,035 views" /></a><br />
 <a href="https://detections.ai/profile/daniyyell"><img width="100%" src="./assets/detection-languages.svg" alt="Most Used Detection Queries: KQL 296, Sigma 179, YARA-L 131, YARA 120, Cortex XDR 97" /></a>
 </td>
 </tr>
